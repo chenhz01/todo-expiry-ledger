@@ -6,6 +6,8 @@ an optional trend delta against a previous scan. Pure Python standard library,
 single file, no network access. If your TODOs rot silently today, this makes
 the rot visible and countable.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 `TODO` comments are write-only debt. Nobody remembers them, grep shows them
